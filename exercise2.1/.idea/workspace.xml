@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07e83bee-81a3-4ac4-9b15-27b2947090fa" name="Default Changelist" comment="" />
+    <list default="true" id="07e83bee-81a3-4ac4-9b15-27b2947090fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanceFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/advanceFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,15 +24,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YSLnynajWaM1hBqzCoiBwPhiNU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
     <configuration name="advanceFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -85,13 +99,13 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="898" height="247" key="GridCell.Tab.0.right/-1080.-110.1080.1895/-2520.424.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1678670838668" />
-    <state x="795" y="116" width="1125" height="903" key="SettingsEditor" timestamp="1678670648341">
+    <state x="795" y="116" width="1125" height="903" key="SettingsEditor" timestamp="1679431183213">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="795" y="116" width="1125" height="903" key="SettingsEditor/-1080.-110.1080.1895/-2520.424.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1678670648341" />
-    <state x="594" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1678669359759">
+    <state x="795" y="116" width="1125" height="903" key="SettingsEditor/-1080.-110.1080.1895/-2520.424.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1679431183213" />
+    <state x="594" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1678877453328">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="594" y="342" key="com.intellij.ide.util.TipDialog/-1080.-110.1080.1895/-2520.424.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1678669359759" />
+    <state x="594" y="342" key="com.intellij.ide.util.TipDialog/-1080.-110.1080.1895/-2520.424.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1678877453328" />
   </component>
 </project>

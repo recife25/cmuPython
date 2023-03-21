@@ -1,0 +1,4 @@
+switch focus between editor, pycharm and integrated terminal
+OPTION + FN + F12
+it will bring you back and forth between the editor & terminal
+for the Mac Pro Notebook
